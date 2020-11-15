@@ -1,4 +1,4 @@
-let counter = doccument.querySelector('.counter');
+let counter = document.querySelector('.Counter');
 const addCont = document.querySelector('#addCountBtn');
 const lowerCount = document.querySelector('#lowerCountBtn');
 
